@@ -1,0 +1,26 @@
+#field {
+  width: 220px;
+  height: 170px;
+  margin: 10px 50px 10px 10px;
+  background: rgb(47, 140, 168);
+  border: 2px groove;
+  float: right;
+}
+#text {
+  margin: 0;
+  margin-left: 10px;
+  color: black;
+  width: 220px;
+  height: 120px;
+  padding-top: 70px;
+  float: left;
+  font-size: 14px;
+  font-weight: bold;
+}
+#id {
+  display: block;
+}
+#bild {
+  width: 200px;
+  height: 200px;
+}

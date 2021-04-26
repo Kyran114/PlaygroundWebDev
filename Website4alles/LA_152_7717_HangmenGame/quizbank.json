@@ -1,0 +1,32 @@
+{
+    "wordlist": [{
+            "word": "kangaroo",
+            "clue": "an animal that is known to jump a lot"
+        },
+        {
+            "word": "fish",
+            "clue": "an animal that resides in water"
+        },
+        {
+            "word": "starbucks",
+            "clue": "a company"
+        },
+        {
+            "word": "macaroni",
+            "clue": "a kind of food"
+        },
+        {
+            "word": "washington",
+            "clue": "a place"
+        },
+        {
+            "word": "turtle",
+            "clue": "a creature"
+        },
+        {
+            "word": "guillotine",
+            "clue": "a machine"
+        }
+
+    ]
+}
